@@ -1,0 +1,595 @@
+x,y,ICD_Code,Category,Description,Color
+0.12907222,-6.728914,272.4,hyperlipidemia,Hyperlipidemia,#d62728
+-1.1726199,4.29436,354.0,other,Carpal tunnel syndrome,#cccccc
+10.181488,-5.9306636,574.00,other,"Calculus of gallbladder with acute cholecystitis, without mention of obstruction",#cccccc
+10.447478,-6.83384,719.41,other,"Pain in joint, shoulder region",#cccccc
+6.635702,-31.465435,253.5,diabetes,Diabetes insipidus,#ff7f0e
+6.8830194,-31.854448,372.14,other,Other chronic allergic conjunctivitis,#cccccc
+3.6600394,-3.2105534,995.27,other,Other drug allergy,#cccccc
+-3.869715,16.978245,788.3,other,"Urinary incontinence, unspecified",#cccccc
+-6.2113323,-0.2567111,250.51,diabetes,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled",#ff7f0e
+-6.4747605,-0.2412629,300.02,other,Generalized anxiety disorder,#cccccc
+-9.571323,9.699312,477.0,other,Allergic rhinitis due to pollen,#cccccc
+-1.9408842,17.918074,493.9,other,"Asthma, unspecified type, unspecified",#cccccc
+-7.336444,17.127514,472.0,other,Chronic rhinitis,#cccccc
+11.355899,22.30269,244.8,other,Other specified acquired hypothyroidism,#cccccc
+-0.43520084,-5.1912904,250.5,diabetes,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled",#ff7f0e
+12.896624,-5.835784,365.04,hypertension,Ocular hypertension,#2ca02c
+3.3088746,-8.07134,V58.61,other,Long-term (current) use of anticoagulants,#cccccc
+12.841785,2.668499,244.9,other,Unspecified acquired hypothyroidism,#cccccc
+4.648429,-7.5126796,362.9,ophthalmic,Unspecified retinal disorder,#e377c2
+2.1491861,-5.9428186,401.9,hypertension,Hypertension,#2ca02c
+-17.211052,2.9706268,562.1,other,Diverticulosis of colon (without mention of hemorrhage),#cccccc
+3.3423476,-8.061518,812.44,other,Closed fracture of unspecified condyle(s) of humerus,#cccccc
+22.865417,15.062442,V67.00,other,"Follow-up examination, following surgery, unspecified",#cccccc
+-5.2856236,16.649187,V24.2,other,Routine postpartum follow-up,#cccccc
+18.621656,-6.3481627,459.81,other,"Venous (peripheral) insufficiency, unspecified",#cccccc
+-8.766632,0.14006075,250.8,diabetes,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",#ff7f0e
+-16.362257,-6.183666,272.2,hyperlipidemia,Hyperlipidemia,#d62728
+-22.811705,-9.138606,278.01,other,Morbid obesity,#cccccc
+-23.223429,-11.2951,300.4,other,Dysthymic disorder,#cccccc
+-22.789663,-9.161744,634.9,other,"Spontaneous abortion, without mention of complication, unspecified",#cccccc
+-22.8156,-9.177572,V49.70,other,Unspecified level lower limb amputation status,#cccccc
+-4.42842,0.15631774,362.01,ophthalmic,Diabetic Retinopathy,#e377c2
+-0.012551086,-11.263832,472.1,other,Chronic pharyngitis,#cccccc
+-7.487953,1.4419372,787.91,other,Diarrhea,#cccccc
+-1.8428993,8.328195,280.9,other,"Iron deficiency anemia, unspecified",#cccccc
+25.822388,-8.63367,728.6,other,Contracture of palmar fascia,#cccccc
+13.820033,2.6870828,387.9,other,"Otosclerosis, unspecified",#cccccc
+-5.66016,-1.6217401,250.4,diabetes,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled",#ff7f0e
+-1.810059,6.658371,289.9,other,Unspecified diseases of blood and blood-forming organs,#cccccc
+2.7627053,24.187214,305.1,other,Tobacco use disorder,#cccccc
+0.74249566,10.169043,477.9,other,"Allergic rhinitis, cause unspecified",#cccccc
+-1.8472075,9.337876,620.2,other,Other and unspecified ovarian cyst,#cccccc
+3.6605885,13.377685,V25.2,other,Sterilization,#cccccc
+-2.105358,15.971419,784.0,other,Headache,#cccccc
+12.817648,15.426938,617.9,other,"Endometriosis, site unspecified",#cccccc
+-3.718602,11.052331,220,other,Benign neoplasm of ovary,#cccccc
+13.131255,16.770899,218.9,other,"Leiomyoma of uterus, unspecified",#cccccc
+-0.8485557,8.936895,215.9,other,"Other benign neoplasm of connective and other soft tissue, site unspecified",#cccccc
+4.457285,7.900268,300.00,other,"Anxiety state, unspecified",#cccccc
+12.446173,-6.1363354,813.81,other,Closed fracture of unspecified part of radius (alone),#cccccc
+11.516761,-3.9791436,79.82,other,SARS-associated coronavirus,#cccccc
+12.746653,-6.572498,732.9,other,Unspecified osteochondropathy,#cccccc
+12.650109,-7.700223,701.0,other,Circumscribed scleroderma,#cccccc
+10.5793915,-7.741641,726.12,other,Bicipital tenosynovitis,#cccccc
+14.277913,-6.718146,443.0,other,Raynaud's syndrome,#cccccc
+12.556154,-6.5958633,416.0,hypertension,Primary pulmonary hypertension,#2ca02c
+-14.625604,4.7066326,592.0,renal,Calculus of kidney,#9467bd
+-10.251919,17.628357,493.00,other,"Extrinsic asthma, unspecified",#cccccc
+-2.9119291,7.977086,648.83,other,"Abnormal glucose tolerance of mother, antepartum condition or complication",#cccccc
+11.248973,19.076902,737.3,other,"Scoliosis [and kyphoscoliosis], idiopathic",#cccccc
+3.4320786,-0.71451867,009.0,other,"Infectious colitis, enteritis, and gastroenteritis",#cccccc
+22.3282,-15.8835745,278.00,other,"Obesity, unspecified",#cccccc
+22.81777,-16.291128,555.9,other,Regional enteritis of unspecified site,#cccccc
+-20.012121,13.11704,686.9,other,Unspecified local infection of skin and subcutaneous tissue,#cccccc
+-20.013567,13.117496,256.4,other,Polycystic ovaries,#cccccc
+-1.0782651,5.3104186,726.9,other,Enthesopathy of unspecified site,#cccccc
+-11.840568,-12.250243,492.8,other,Other emphysema,#cccccc
+-10.051168,-12.1293125,496,other,"Chronic airway obstruction, not elsewhere classified",#cccccc
+-12.874121,-8.054657,577.0,other,Acute pancreatitis,#cccccc
+-4.8147464,-27.700039,V67.9,other,Unspecified follow-up examination,#cccccc
+-5.1346765,-29.126093,627.3,other,Postmenopausal atrophic vaginitis,#cccccc
+-3.869206,-28.350706,435.9,other,Unspecified transient cerebral ischemia,#cccccc
+-5.5762286,-27.81436,785.6,other,Enlargement of lymph nodes,#cccccc
+-2.9704745,-22.105717,251.2,other,"Hypoglycemia, unspecified",#cccccc
+-4.7802677,-28.0123,194.8,other,Malignant neoplasm of other endocrine glands and related structures,#cccccc
+-4.8606486,-28.211853,435.3,other,Vertebrobasilar artery syndrome,#cccccc
+14.3735285,-15.418071,250.9,diabetes,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled",#ff7f0e
+14.221548,-15.58677,370.00,other,"Corneal ulcer, unspecified",#cccccc
+-0.44946945,7.2464695,790.4,other,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],#cccccc
+-11.784736,11.810158,625.3,other,Dysmenorrhea,#cccccc
+7.0524035,-4.665862,V15.82,other,Personal history of tobacco use,#cccccc
+1.4514469,-21.54114,389.9,other,Unspecified hearing loss,#cccccc
+6.802475,-31.007942,424.0,other,Mitral valve disorders,#cccccc
+6.4168367,-31.243824,592.1,other,Calculus of ureter,#cccccc
+5.5743685,-30.998055,242.9,other,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",#cccccc
+12.624012,-23.199175,579.0,other,Celiac disease,#cccccc
+9.069149,-24.695766,780.52,other,"Insomnia, unspecified",#cccccc
+11.988669,-23.741833,82.41,other,Ehrlichiosis chafeensis [E. chafeensis],#cccccc
+-14.687168,-6.3247466,786.5,other,"Chest pain, unspecified",#cccccc
+-14.810623,-5.7651205,724.3,other,Sciatica,#cccccc
+-2.485087,5.307847,571.8,other,Other chronic nonalcoholic liver disease,#cccccc
+11.6716,6.846564,790.6,other,Other abnormal blood chemistry,#cccccc
+-14.392357,-6.2183404,451.9,other,Phlebitis and thrombophlebitis of unspecified site,#cccccc
+-13.2458515,-4.954344,401.1,hypertension,Hypertension,#2ca02c
+-14.372201,-6.263109,571.3,other,"Alcoholic liver damage, unspecified",#cccccc
+-1.6630917,-8.488828,410.9,other,"Acute myocardial infarction of unspecified site, episode of care unspecified",#cccccc
+4.4178143,-14.942522,250.6,diabetes,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",#ff7f0e
+21.410692,6.019343,346.9,other,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",#cccccc
+22.64733,6.041712,726.19,other,Other specified disorders of bursae and tendons in shoulder region,#cccccc
+23.740993,6.0417395,812.2,other,Closed fracture of unspecified part of humerus,#cccccc
+20.571959,16.08676,709.01,other,Vitiligo,#cccccc
+-8.983507,3.6956367,285.9,other,"Anemia, unspecified",#cccccc
+13.358629,10.305808,550.9,other,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)",#cccccc
+-0.032938164,-11.25005,738.4,other,Acquired spondylolisthesis,#cccccc
+9.574967,19.475939,715.34,other,"Osteoarthrosis, localized, not specified whether primary or secondary, hand",#cccccc
+-14.841026,0.9390445,726.2,other,"Other affections of shoulder region, not elsewhere classified",#cccccc
+-16.204916,2.3937807,780.57,other,Unspecified sleep apnea,#cccccc
+1.5623789,-3.8079703,363.7,other,"Choroidal detachment, unspecified",#cccccc
+3.3317993,18.64889,556.9,other,"Ulcerative colitis, unspecified",#cccccc
+-17.238686,5.564113,157.9,other,"Malignant neoplasm of pancreas, part unspecified",#cccccc
+-12.356814,18.112074,197.7,other,"Malignant neoplasm of liver, secondary",#cccccc
+1.8218966,19.137455,41.86,other,Helicobacter pylori [H. pylori],#cccccc
+-12.25296,18.000122,474.9,other,Unspecified chronic disease of tonsils and adenoids,#cccccc
+-12.341278,18.433298,518.89,other,"Other diseases of lung, not elsewhere classified",#cccccc
+-11.675205,18.145895,696.0,other,Psoriatic arthropathy,#cccccc
+-14.77028,18.871124,V15.0,other,"Allergy, other than to medicinal agents",#cccccc
+11.339246,5.665343,792.1,other,Nonspecific abnormal findings in stool contents,#cccccc
+9.887449,4.691896,726.1,other,"Disorders of bursae and tendons in shoulder region, unspecified",#cccccc
+-7.78513,-14.11548,239.4,other,Neoplasm of unspecified nature of bladder,#cccccc
+-21.615782,-14.956646,356.9,neurological,Unspecified hereditary and idiopathic peripheral neuropathy,#7f7f7f
+-7.0353713,-13.2994175,428.9,cardiovascular,"Heart failure, unspecified",#8c564b
+-9.322509,-3.3990982,600.00,other,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),#cccccc
+1.1222137,7.415121,553.3,other,Diaphragmatic hernia without mention of obstruction or gangrene,#cccccc
+5.0559015,11.895832,535.1,other,"Atrophic gastritis, without mention of hemorrhage",#cccccc
+-9.581917,-10.835701,250.73,diabetes,"Diabetes with peripheral circulatory disorders, type I [juvenile type], uncontrolled",#ff7f0e
+-9.568962,-10.839411,433.3,other,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction,#cccccc
+0.94118863,27.93235,459.9,other,Unspecified circulatory system disorder,#cccccc
+-7.4975777,-12.322778,727.51,other,Synovial cyst of popliteal space,#cccccc
+-7.4802017,-12.306358,719.55,other,"Stiffness of joint, not elsewhere classified, pelvic region and thigh",#cccccc
+4.789243,16.891682,715.36,other,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",#cccccc
+-7.212383,-11.717579,403.9,hypertension,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",#2ca02c
+-17.731865,-20.637236,813.41,other,Closed Colles' fracture,#cccccc
+-2.8360066,-11.703843,733.00,other,"Osteoporosis, unspecified",#cccccc
+-17.326399,-19.92876,574.01,other,"Calculus of gallbladder with acute cholecystitis, with obstruction",#cccccc
+-17.839575,-20.219788,447.9,other,Unspecified disorders of arteries and arterioles,#cccccc
+-15.228414,-20.607903,366.9,other,Unspecified cataract,#cccccc
+-16.960135,-20.5219,574.31,other,"Calculus of bile duct with acute cholecystitis, with obstruction",#cccccc
+-0.022558676,1.9383242,272.0,hyperlipidemia,Hyperlipidemia,#d62728
+-17.289913,-20.8611,199.1,other,Other malignant neoplasm without specification of site,#cccccc
+-17.005434,-20.03587,162.9,other,"Malignant neoplasm of bronchus and lung, unspecified",#cccccc
+-18.789804,-18.59443,275.0,other,Disorders of iron metabolism,#cccccc
+16.650797,-8.521488,V68.1,other,Issue of repeat prescriptions,#cccccc
+7.6955504,-7.583877,586,renal,"Renal failure, unspecified",#9467bd
+2.279093,27.66813,530.2,other,Ulcer of esophagus without bleeding,#cccccc
+1.5588,28.276648,703.8,other,Other specified diseases of nail,#cccccc
+2.0020337,28.418463,532.3,other,"Acute duodenal ulcer without mention of hemorrhage or perforation, without mention of obstruction",#cccccc
+1.8140897,27.620134,531.3,other,"Acute gastric ulcer without mention of hemorrhage or perforation, without mention of obstruction",#cccccc
+-3.5917609,6.8662434,530.81,other,Esophageal reflux,#cccccc
+3.6413767,27.999746,250.7,diabetes,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled",#ff7f0e
+2.418771,28.719255,438.0,other,"Late effects of cerebrovascular disease, cognitive deficits",#cccccc
+2.496572,28.104595,440.21,other,Atherosclerosis of native arteries of the extremities with intermittent claudication,#cccccc
+1.6218666,29.133057,355.9,other,Mononeuritis of unspecified site,#cccccc
+-11.161128,-4.048842,244.0,other,Postsurgical hypothyroidism,#cccccc
+-11.371532,-3.3014667,250.41,diabetes,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled",#ff7f0e
+-11.772878,-3.5357225,369.22,ophthalmic,Better eye: severe vision impairment; lesser eye: severe vision impairment,#e377c2
+-11.686753,-3.5365212,820.21,other,Closed fracture of intertrochanteric section of neck of femur,#cccccc
+-13.799054,4.6705656,585.3,renal,Chronic Kidney Disease,#9467bd
+10.471263,18.951475,574.1,other,"Calculus of gallbladder with other cholecystitis, without mention of obstruction",#cccccc
+5.4854913,2.316473,715.35,other,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh",#cccccc
+-20.243124,-17.071411,601.9,other,"Prostatitis, unspecified",#cccccc
+-20.383747,-16.330893,377.1,other,"Optic atrophy, unspecified",#cccccc
+-19.863045,-15.142683,722.0,other,Displacement of cervical intervertebral disc without myelopathy,#cccccc
+-20.696814,-16.74956,362.57,other,Drusen (degenerative),#cccccc
+-18.87527,-16.31173,362.5,other,"Macular degeneration (senile), unspecified",#cccccc
+-19.8223,-16.894968,275.1,other,Disorders of copper metabolism,#cccccc
+-19.919699,-16.379503,275.01,other,Hereditary hemochromatosis,#cccccc
+18.342138,0.6580822,704.01,other,Alopecia areata,#cccccc
+-4.58089,-6.0354896,413.9,other,Other and unspecified angina pectoris,#cccccc
+-20.394688,-4.4605827,241.1,other,Nontoxic multinodular goiter,#cccccc
+18.330942,0.17431252,389.1,other,"Sensorineural hearing loss, unspecified",#cccccc
+8.340997,7.661529,309.9,other,Unspecified adjustment reaction,#cccccc
+8.516362,6.7544518,536.8,other,Dyspepsia and other specified disorders of function of stomach,#cccccc
+8.34906,7.653847,695.1,other,"Erythema multiforme, unspecified",#cccccc
+6.4186425,-12.98235,726.32,other,Lateral epicondylitis,#cccccc
+1.6864628,-1.6636522,462,other,Acute pharyngitis,#cccccc
+3.7908478,-14.0962515,592.9,other,"Urinary calculus, unspecified",#cccccc
+-4.1141276,4.428279,696.1,other,Other psoriasis,#cccccc
+14.919143,-2.8491654,722.2,other,"Displacement of intervertebral disc, site unspecified, without myelopathy",#cccccc
+14.296872,-14.655807,458.9,other,"Hypotension, unspecified",#cccccc
+10.727687,-9.601671,721.0,other,Cervical spondylosis without myelopathy,#cccccc
+-5.4104953,-20.287102,682.0,other,Cellulitis and abscess of face,#cccccc
+-2.7303133,-11.983826,721.9,other,"Spondylosis of unspecified site, without mention of myelopathy",#cccccc
+-5.244371,-20.451452,715.89,other,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites",#cccccc
+-6.205964,-20.412867,282.4,other,"Thalassemia, unspecified",#cccccc
+-5.2311687,-19.655622,382.9,other,Unspecified otitis media,#cccccc
+-2.6208267,6.048543,788.0,renal,Renal colic,#9467bd
+-7.8183703,-3.5047839,716.98,other,"Arthropathy, unspecified, other specified sites",#cccccc
+-7.811848,-3.2666776,716.97,other,"Arthropathy, unspecified, ankle and foot",#cccccc
+-7.932411,-3.3466756,716.59,other,"Unspecified polyarthropathy or polyarthritis, multiple sites",#cccccc
+-7.083527,-4.166817,443.9,other,"Peripheral vascular disease, unspecified",#cccccc
+20.778175,16.301573,302.72,other,Psychosexual dysfunction with inhibited sexual excitement,#cccccc
+18.474144,-5.7350135,281.9,other,Unspecified deficiency anemia,#cccccc
+-3.8718903,-13.631052,715.9,other,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",#cccccc
+4.7803574,17.846575,564.1,other,Irritable bowel syndrome,#cccccc
+8.105024,-23.620762,845.00,other,"Sprain of ankle, unspecified site",#cccccc
+6.5542226,-23.479303,780.4,other,Dizziness and giddiness,#cccccc
+7.5537806,-6.6881304,436,other,"Acute, but ill-defined, cerebrovascular disease",#cccccc
+-14.638506,29.502308,823.8,other,Closed fracture of unspecified part of tibia alone,#cccccc
+7.9197807,-23.650679,362.81,ophthalmic,Retinal hemorrhage,#e377c2
+7.793403,-23.35305,362.1,ophthalmic,"Background retinopathy, unspecified",#e377c2
+10.330176,1.9841356,308.0,other,Predominant disturbance of emotions,#cccccc
+26.063152,-6.540699,211.3,other,Benign neoplasm of colon,#cccccc
+-12.172967,-13.340604,733.01,other,Senile osteoporosis,#cccccc
+-12.472661,-13.085834,716.9,other,"Arthropathy, unspecified, site unspecified",#cccccc
+-11.596995,-14.161355,714.0,other,Rheumatoid arthritis,#cccccc
+-13.472942,-13.082889,415.19,other,Other pulmonary embolism and infarction,#cccccc
+-13.550283,-12.533157,423.9,other,Unspecified disease of pericardium,#cccccc
+-18.191454,18.834217,364.3,other,Unspecified iridocyclitis,#cccccc
+4.081587,-2.4182985,296.00,other,"Bipolar I disorder, single manic episode, unspecified",#cccccc
+3.2256691,-11.688998,534.91,other,"Gastrojejunal ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, with obstruction",#cccccc
+3.2863038,-11.705154,443.81,other,Peripheral angiopathy in diseases classified elsewhere,#cccccc
+3.2471893,-11.734271,358.00,other,Myasthenia gravis without (acute) exacerbation,#cccccc
+1.6978543,-11.000315,365.9,other,Unspecified glaucoma,#cccccc
+-18.8135,4.5247836,272.1,hyperlipidemia,Hyperlipidemia,#d62728
+-10.379451,17.096275,698.3,other,Lichenification and lichen simplex chronicus,#cccccc
+3.5646117,19.952284,720.0,other,Ankylosing spondylitis,#cccccc
+4.686189,21.421978,821.00,other,Closed fracture of unspecified part of femur,#cccccc
+1.9195977,5.393953,726.0,other,Adhesive capsulitis of shoulder,#cccccc
+1.9094993,5.3900056,183.0,other,Malignant neoplasm of ovary,#cccccc
+-0.12871045,5.74209,179,other,"Malignant neoplasm of uterus, part unspecified",#cccccc
+-4.3548465,18.301231,724.2,other,Lumbago,#cccccc
+-11.375512,-0.45663676,V42.0,renal,Kidney replaced by transplant,#9467bd
+2.5855906,-18.62141,471.9,other,Unspecified nasal polyp,#cccccc
+2.4038205,-18.577766,362.29,diabetes,Other nondiabetic proliferative retinopathy,#ff7f0e
+2.4320526,-18.594072,716.94,other,"Arthropathy, unspecified, hand",#cccccc
+-17.708069,4.1250944,V65.42,other,Counseling on substance use and abuse,#cccccc
+-17.987684,3.7567844,357.4,neurological,Diabetic Neuropathy,#7f7f7f
+-18.095873,2.66722,411.1,other,Intermediate coronary syndrome,#cccccc
+-17.382524,3.6189635,440.9,other,Generalized and unspecified atherosclerosis,#cccccc
+-17.335924,4.346635,825.2,other,Closed fracture of unspecified bone(s) of foot [except toes],#cccccc
+-16.912504,4.1715536,98.85,cardiovascular,Other gonococcal heart disease,#8c564b
+-16.564402,3.5465221,V15.1,cardiovascular,"Personal history of surgery to heart and great vessels, presenting hazards to health",#8c564b
+9.601055,13.377201,227.3,other,Benign neoplasm of pituitary gland and craniopharyngeal duct,#cccccc
+-2.6207917,-6.6383057,414.9,cardiovascular,"Chronic ischemic heart disease, unspecified",#8c564b
+17.029093,-7.750926,637.9,other,"Unspecified abortion, without mention of complication, unspecified",#cccccc
+9.18404,-3.1671147,242.2,other,Toxic multinodular goiter without mention of thyrotoxic crisis or storm,#cccccc
+8.480328,-2.0848427,250.91,diabetes,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled",#ff7f0e
+20.662592,12.468256,722.1,other,Displacement of lumbar intervertebral disc without myelopathy,#cccccc
+20.436985,11.845118,401.0,hypertension,Hypertension,#2ca02c
+15.885174,-3.578797,300.9,other,Unspecified nonpsychotic mental disorder,#cccccc
+15.88102,-3.5909228,825.25,other,Closed fracture of metatarsal bone(s),#cccccc
+0.8461384,10.370839,375.01,other,Acute dacryoadenitis,#cccccc
+-18.629622,1.526042,V42.4,other,Bone replaced by transplant,#cccccc
+20.990862,13.505004,542,other,Other appendicitis,#cccccc
+20.967775,13.480809,722.93,other,"Other and unspecified disc disorder, lumbar region",#cccccc
+5.474363,3.205023,733.9,other,"Disorder of bone and cartilage, unspecified",#cccccc
+6.781142,-11.914028,574.2,other,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction",#cccccc
+19.64151,-10.925397,188.9,other,"Malignant neoplasm of bladder, part unspecified",#cccccc
+19.654993,-10.943358,788.41,other,Urinary frequency,#cccccc
+-1.2342777,-9.408415,250.81,diabetes,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled",#ff7f0e
+-0.4437091,-10.536002,369.00,ophthalmic,"Profound impairment, both eyes, impairment level not further specified",#e377c2
+-1.2787783,-9.344177,682.5,other,Cellulitis and abscess of buttock,#cccccc
+21.707064,-16.578081,575.0,other,Acute cholecystitis,#cccccc
+7.0559587,-4.7568617,782.4,other,"Jaundice, unspecified, not of newborn",#cccccc
+1.2319487,-0.85032684,704.8,other,Other specified diseases of hair and hair follicles,#cccccc
+9.628403,-16.60537,599.0,other,"Urinary tract infection, site not specified",#cccccc
+9.600085,-15.680184,V68.9,other,Encounters for unspecified administrative purpose,#cccccc
+9.515807,-15.852617,427.2,other,"Paroxysmal tachycardia, unspecified",#cccccc
+9.52408,-15.82819,359.1,other,Hereditary progressive muscular dystrophy,#cccccc
+9.172746,-10.023234,426.4,other,Right bundle branch block,#cccccc
+-12.531762,29.856504,717.5,other,"Derangement of meniscus, not elsewhere classified",#cccccc
+-11.594486,30.840538,718.86,other,"Other joint derangement, not elsewhere classified, lower leg",#cccccc
+-11.24978,30.654636,736.42,other,Genu varum (acquired),#cccccc
+-11.70023,30.717308,805.4,other,Closed fracture of lumbar vertebra without mention of spinal cord injury,#cccccc
+-11.437503,30.360409,815.00,other,"Closed fracture of metacarpal bone(s), site unspecified",#cccccc
+-9.768424,-11.844378,997.99,other,"Complications affecting other specified body systems, not elsewhere classified",#cccccc
+13.332464,10.336588,997.91,hypertension,"Complications affecting other specified body systems, not elsewhere classified, hypertension",#2ca02c
+13.319643,10.324696,582.9,renal,Chronic glomerulonephritis with unspecified pathological lesion in kidney,#9467bd
+0.6278381,8.277628,454.9,other,Asymptomatic varicose veins,#cccccc
+1.9947809,-2.979696,V08,other,Asymptomatic human immunodeficiency virus [HIV] infection status,#cccccc
+0.8528962,-3.4694865,886.1,other,"Traumatic amputation of other finger(s) (complete) (partial), complicated",#cccccc
+9.128703,-1.1565802,V43.1,other,Lens replaced by other means,#cccccc
+15.56258,20.11468,627.2,other,Symptomatic menopausal or female climacteric states,#cccccc
+9.125325,-1.1952778,727.03,other,Trigger finger (acquired),#cccccc
+-10.899032,-4.4059167,724.02,neurological,"Spinal stenosis, lumbar region, without neurogenic claudication",#7f7f7f
+13.51694,-22.029621,726.73,other,Calcaneal spur,#cccccc
+13.666683,-21.801657,367.21,other,Regular astigmatism,#cccccc
+13.652658,20.34185,753.1,renal,"Cystic kidney disease, unspecified",#9467bd
+14.99824,20.895042,782.3,other,Edema,#cccccc
+14.931931,20.603848,729.4,other,"Fasciitis, unspecified",#cccccc
+15.098559,20.717148,402.01,hypertension,Hypertension,#2ca02c
+10.175143,4.136294,217,other,Benign neoplasm of breast,#cccccc
+4.915708,-5.907392,427.69,other,Other premature beats,#cccccc
+-0.35039195,6.673723,626.6,other,Metrorrhagia,#cccccc
+4.911253,-5.8775015,427.6,other,"Premature beats, unspecified",#cccccc
+4.6055303,5.843136,216.9,other,"Benign neoplasm of skin, site unspecified",#cccccc
+12.447427,20.055265,842.13,other,Sprain of interphalangeal (joint) of hand,#cccccc
+12.483895,20.105171,593.2,renal,"Cyst of kidney, acquired",#9467bd
+2.2122295,-6.138333,V45.3,other,Intestinal bypass or anastomosis status,#cccccc
+-12.724433,-8.902753,552.00,other,"Femoral hernia with obstruction, unilateral or unspecified (not specified as recurrent)",#cccccc
+6.897493,11.611725,577.2,other,Cyst and pseudocyst of pancreas,#cccccc
+6.5975857,11.278659,723.5,other,"Torticollis, unspecified",#cccccc
+6.140566,11.111869,719.4,other,"Pain in joint, site unspecified",#cccccc
+7.3078938,10.337287,569.3,other,Hemorrhage of rectum and anus,#cccccc
+0.22043538,7.7225685,455.0,other,Internal hemorrhoids without mention of complication,#cccccc
+5.530621,18.615135,345.9,other,"Epilepsy, unspecified, without mention of intractable epilepsy",#cccccc
+6.4728436,-12.8032465,577.9,other,Unspecified disease of pancreas,#cccccc
+-9.560025,2.5434568,375.15,other,"Tear film insufficiency, unspecified",#cccccc
+6.6515503,-12.788609,463,other,Acute tonsillitis,#cccccc
+11.317721,-3.278424,365.00,other,"Preglaucoma, unspecified",#cccccc
+-15.448948,-12.582413,38.9,other,Unspecified septicemia,#cccccc
+-20.209557,28.589952,365.1,other,"Open-angle glaucoma, unspecified",#cccccc
+-19.094856,29.887814,694.5,other,Pemphigoid,#cccccc
+-20.19896,28.616005,345.11,other,"Generalized convulsive epilepsy, with intractable epilepsy",#cccccc
+-12.086874,28.572882,717.7,other,Chondromalacia of patella,#cccccc
+-15.846041,28.853022,11.9,other,"Pulmonary tuberculosis, unspecified, unspecified",#cccccc
+-0.4008892,-12.417076,379.23,other,Vitreous hemorrhage,#cccccc
+-18.441122,31.49976,573.8,other,Other specified disorders of liver,#cccccc
+-17.887835,30.974354,694.4,other,Pemphigus,#cccccc
+-17.977468,30.2843,576.8,other,Other specified disorders of biliary tract,#cccccc
+-16.91695,30.245117,571.2,other,Alcoholic cirrhosis of liver,#cccccc
+-17.85987,31.519426,571.5,other,Cirrhosis of liver without mention of alcohol,#cccccc
+-18.574451,30.965929,571.0,other,Alcoholic fatty liver,#cccccc
+-19.457489,31.163921,287.5,other,"Thrombocytopenia, unspecified",#cccccc
+-18.423803,30.467718,211.1,other,Benign neoplasm of stomach,#cccccc
+-16.898657,30.83851,155.0,other,"Malignant neoplasm of liver, primary",#cccccc
+7.942458,-9.012835,791.0,other,Proteinuria,#cccccc
+9.310928,-8.91357,702.0,other,Actinic keratosis,#cccccc
+9.366878,-8.611692,585.1,renal,Chronic Kidney Disease,#9467bd
+9.022095,-8.388003,437.9,other,Unspecified cerebrovascular disease,#cccccc
+-18.234045,-4.1821566,427.31,other,Atrial fibrillation,#cccccc
+8.919251,-8.935141,275.4,other,Unspecified disorder of calcium metabolism,#cccccc
+-5.406298,0.37748665,250.53,diabetes,"Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled",#ff7f0e
+14.085674,15.214503,710.2,other,Sicca syndrome,#cccccc
+13.669854,15.410833,714.2,other,Other rheumatoid arthritis with visceral or systemic involvement,#cccccc
+13.728547,15.419738,714.3,other,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified",#cccccc
+3.9447966,20.678833,455.6,other,Unspecified hemorrhoids without mention of complication,#cccccc
+9.8321085,-27.608532,425.4,other,Other primary cardiomyopathies,#cccccc
+24.058,6.0518417,241.9,other,Unspecified nontoxic nodular goiter,#cccccc
+-8.24001,1.4857966,374.05,ophthalmic,Trichiasis of eyelid without entropion,#e377c2
+-6.853919,3.601272,V45.51,other,Presence of intrauterine contraceptive device,#cccccc
+-8.557032,2.3998682,536.3,other,Gastroparesis,#cccccc
+-8.784701,1.7395164,369.7,ophthalmic,"Moderate or severe impairment, one eye, impairment level not further specified",#e377c2
+-7.502934,2.0617118,362.02,ophthalmic,Diabetic Retinopathy,#e377c2
+-8.144152,2.725925,366.41,diabetes,Diabetic cataract,#ff7f0e
+-8.220465,1.9287845,285.29,other,Anemia of other chronic disease,#cccccc
+-7.7314487,2.4137661,361.81,ophthalmic,Traction detachment of retina,#e377c2
+14.233688,-2.7785969,340,other,Multiple sclerosis,#cccccc
+12.570622,-23.319065,754.71,other,Talipes cavus,#cccccc
+26.424555,-8.0334635,423.2,other,Constrictive pericarditis,#cccccc
+27.48646,-8.24767,535.5,other,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",#cccccc
+26.762342,-7.9083962,427.32,other,Atrial flutter,#cccccc
+26.812654,-7.5594087,394.0,other,Mitral stenosis,#cccccc
+26.387506,-7.5965333,112.9,other,Candidiasis of unspecified site,#cccccc
+17.5976,1.7400887,245.0,other,Acute thyroiditis,#cccccc
+17.740288,2.3542705,255.4,renal,Corticoadrenal insufficiency,#9467bd
+0.7433707,-15.674469,411.89,cardiovascular,"Other acute and subacute forms of ischemic heart disease, other",#8c564b
+0.27493906,-15.649537,829.0,other,"Fracture of unspecified bone, closed",#cccccc
+0.16552386,-6.9960876,618.9,other,Unspecified genital prolapse,#cccccc
+25.127005,12.802853,162.3,other,"Malignant neoplasm of upper lobe, bronchus or lung",#cccccc
+25.13809,12.791252,440.8,other,Atherosclerosis of other specified arteries,#cccccc
+-14.598821,10.629852,362.83,ophthalmic,Retinal edema,#e377c2
+-12.575418,10.370043,367.1,other,Myopia,#cccccc
+-13.90329,10.378663,367.2,other,"Astigmatism, unspecified",#cccccc
+-14.036737,10.730496,789.2,other,Splenomegaly,#cccccc
+-14.136884,10.689803,994.1,other,Drowning and nonfatal submersion,#cccccc
+5.8550096,-8.368289,127.4,other,Enterobiasis,#cccccc
+0.42899686,-1.9630674,491.9,other,Unspecified chronic bronchitis,#cccccc
+3.4198153,17.577261,729.1,other,"Myalgia and myositis, unspecified",#cccccc
+20.294504,-6.0254636,643.03,other,"Mild hyperemesis gravidarum, antepartum condition or complication",#cccccc
+20.306206,-6.023092,367.0,other,Hypermetropia,#cccccc
+4.083175,13.230267,253.4,other,Other anterior pituitary disorders,#cccccc
+4.021797,-1.4587463,386.9,other,Unspecified vertiginous syndromes and labyrinthine disorders,#cccccc
+15.367407,-15.860142,153.9,other,"Malignant neoplasm of colon, unspecified site",#cccccc
+15.339091,-15.849059,208.9,other,"Unspecified leukemia, without mention of having achieved remission",#cccccc
+-5.151622,18.751337,311,other,"Depressive disorder, not elsewhere classified",#cccccc
+17.739105,2.6715715,357.0,other,Acute infective polyneuritis,#cccccc
+20.499277,16.241848,258.8,other,Other specified polyglandular dysfunction,#cccccc
+-6.4855,3.8179028,715.96,other,"Osteoarthrosis, unspecified whether generalized or localized, lower leg",#cccccc
+-11.504068,12.472967,244.3,other,Other iatrogenic hypothyroidism,#cccccc
+-10.994914,11.155903,360.21,other,Progressive high (degenerative) myopia,#cccccc
+-11.058027,12.125367,564.00,other,"Constipation, unspecified",#cccccc
+-11.472087,11.769599,758.0,other,Down's syndrome,#cccccc
+-3.637879,0.9620556,251.0,other,Hypoglycemic coma,#cccccc
+10.617588,23.852745,384.2,other,"Perforation of tympanic membrane, unspecified",#cccccc
+3.2312057,-2.5455496,171.9,other,"Malignant neoplasm of connective and other soft tissue, site unspecified",#cccccc
+3.6673725,9.32722,785.2,cardiovascular,Undiagnosed cardiac murmurs,#8c564b
+3.9384155,8.949282,359.29,other,Other specified myotonic disorder,#cccccc
+-2.4018676,-13.990352,814.00,other,"Closed fracture of carpal bone, unspecified",#cccccc
+-2.8890772,-13.971179,402.00,hypertension,Hypertension,#2ca02c
+14.330827,0.5754849,362.07,diabetes,Diabetic macular edema,#ff7f0e
+14.298861,0.58559406,366.2,other,"Traumatic cataract, unspecified",#cccccc
+-8.723044,-6.6120825,790.5,other,Other nonspecific abnormal serum enzyme levels,#cccccc
+-8.72595,-6.615633,378.54,neurological,Sixth or abducens nerve palsy,#7f7f7f
+1.836521,-0.51557195,787.1,cardiovascular,Heartburn,#8c564b
+7.748745,3.214584,729.2,other,"Neuralgia, neuritis, and radiculitis, unspecified",#cccccc
+7.8098607,3.1716535,723.1,other,Cervicalgia,#cccccc
+6.680187,2.4444108,715.94,other,"Osteoarthrosis, unspecified whether generalized or localized, hand",#cccccc
+6.8772526,2.3689842,338.29,other,Other chronic pain,#cccccc
+6.701349,2.5722659,258.1,other,Other combinations of endocrine dysfunction,#cccccc
+12.08265,7.55656,250.1,diabetes,"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled",#ff7f0e
+12.129585,7.631234,718.65,other,"Unspecified intrapelvic protrusion of acetabulum, pelvic region and thigh",#cccccc
+-6.1402154,-18.26957,493.91,other,"Asthma, unspecified type, with status asthmaticus",#cccccc
+-6.2283187,-18.125652,748.3,other,"Other anomalies of larynx, trachea, and bronchus",#cccccc
+24.277248,15.282056,540.0,other,Acute appendicitis with generalized peritonitis,#cccccc
+24.267014,15.272322,567.9,other,Unspecified peritonitis,#cccccc
+-1.997563,7.321836,685.1,other,Pilonidal cyst without mention of abscess,#cccccc
+21.416288,6.0480022,366.12,other,Incipient senile cataract,#cccccc
+-4.7086716,17.45551,V22.2,other,"Pregnant state, incidental",#cccccc
+-4.8471417,17.16587,728.85,other,Spasm of muscle,#cccccc
+-6.072609,17.262514,466.0,other,Acute bronchitis,#cccccc
+-5.064707,17.483614,117.9,other,Other and unspecified mycoses,#cccccc
+-4.1206584,16.21806,460,other,Acute nasopharyngitis [common cold],#cccccc
+-0.98589545,12.017285,590.1,renal,Acute pyelonephritis without lesion of renal medullary necrosis,#9467bd
+-1.2405343,10.791615,690.1,other,"Seborrheic dermatitis, unspecified",#cccccc
+-0.9731989,11.977545,696.5,other,Other and unspecified pityriasis,#cccccc
+-0.58170533,-14.290399,V45.6,ophthalmic,States following surgery of eye and adnexa,#e377c2
+-0.84417313,-13.800679,361.9,ophthalmic,Unspecified retinal detachment,#e377c2
+-12.771048,7.619624,541,other,"Appendicitis, unqualified",#cccccc
+2.675223,20.348995,377.39,other,Other optic neuritis,#cccccc
+-15.2742405,-20.690687,365.11,other,Primary open angle glaucoma,#cccccc
+13.90734,2.4095986,429.0,other,"Myocarditis, unspecified",#cccccc
+14.96929,3.3526194,735.0,other,Hallux valgus (acquired),#cccccc
+9.288031,14.158882,737.8,other,Other curvatures of spine,#cccccc
+-3.133153,-1.798338,434.11,other,Cerebral embolism with cerebral infarction,#cccccc
+-3.1695602,-2.4517016,780.39,other,Other convulsions,#cccccc
+-5.920802,9.884092,380.4,other,Impacted cerumen,#cccccc
+-1.3555955,7.8769116,695.3,other,Rosacea,#cccccc
+12.271021,-4.664424,706.1,other,Other acne,#cccccc
+-30.18294,-1.3578022,727.04,other,Radial styloid tenosynovitis,#cccccc
+23.93196,-17.368967,193,other,Malignant neoplasm of thyroid gland,#cccccc
+23.95101,-17.270882,242.91,other,"Thyrotoxicosis without mention of goiter or other cause, with mention of thyrotoxic crisis or storm",#cccccc
+23.941687,-17.223372,610.1,other,Diffuse cystic mastopathy,#cccccc
+23.526892,17.092024,691.8,other,Other atopic dermatitis and related conditions,#cccccc
+2.2917256,-3.7780478,647.13,other,"Gonorrhea of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",#cccccc
+16.48204,6.0626636,259.1,other,"Precocious sexual development and puberty, not elsewhere classified",#cccccc
+16.483097,6.0691094,260,other,Kwashiorkor,#cccccc
+16.48378,6.074727,756.16,other,Klippel-Feil syndrome,#cccccc
+-3.0875225,-24.289696,V16.0,other,Family history of malignant neoplasm of gastrointestinal tract,#cccccc
+-1.6787045,22.527435,250.11,diabetes,Diabetes Mellitus,#ff7f0e
+-11.433542,-14.734906,578.9,other,"Hemorrhage of gastrointestinal tract, unspecified",#cccccc
+-15.21042,17.52637,249.91,diabetes,"Secondary diabetes mellitus with unspecified complication, uncontrolled",#ff7f0e
+-15.250828,17.43599,277.4,other,Disorders of bilirubin excretion,#cccccc
+2.1012387,-2.2792032,277.00,other,Cystic fibrosis without mention of meconium ileus,#cccccc
+11.087864,1.3658849,610.0,other,Solitary cyst of breast,#cccccc
+-29.097044,9.831906,381.19,other,Other chronic serous otitis media,#cccccc
+-28.989254,10.0924835,474.00,other,Chronic tonsillitis,#cccccc
+-29.170183,10.032543,812.41,other,Closed supracondylar fracture of humerus,#cccccc
+-28.937273,9.908677,816.00,other,"Closed fracture of phalanx or phalanges of hand, unspecified",#cccccc
+5.276935,6.1361322,245.2,other,Chronic lymphocytic thyroiditis,#cccccc
+-12.82059,7.899442,278.02,other,Overweight,#cccccc
+-2.4085138,-6.483073,465.8,other,Acute upper respiratory infections of other multiple sites,#cccccc
+18.762974,0.9051447,255.0,other,Cushing's syndrome,#cccccc
+28.781677,1.3289738,790.7,other,Bacteremia,#cccccc
+27.89719,0.9416654,785.52,other,Septic shock,#cccccc
+29.090536,1.1563722,584.9,renal,"Acute kidney failure, unspecified",#9467bd
+28.932508,0.8349148,480.3,other,Pneumonia due to SARS-associated coronavirus,#cccccc
+28.831131,0.809151,285.8,other,Other specified anemias,#cccccc
+7.989196,9.3874035,730.2,other,"Unspecified osteomyelitis, site unspecified",#cccccc
+1.2425358,3.1103299,445.02,other,Atheroembolism of lower extremity,#cccccc
+1.1817721,3.153862,327.24,other,Idiopathic sleep related non-obstructive alveolar hypoventilation,#cccccc
+1.1747515,3.1172047,174.9,other,"Malignant neoplasm of breast (female), unspecified",#cccccc
+25.440083,-4.9853725,368.2,other,Diplopia,#cccccc
+25.438877,-4.9801292,478.0,other,Hypertrophy of nasal turbinates,#cccccc
+-5.025703,10.158906,616.1,other,"Vaginitis and vulvovaginitis, unspecified",#cccccc
+5.4533076,5.1690817,252.1,other,Hypoparathyroidism,#cccccc
+5.5216703,-15.894013,720.1,other,Spinal enthesopathy,#cccccc
+5.574448,-15.942398,571.9,other,Unspecified chronic liver disease without mention of alcohol,#cccccc
+5.5571747,-15.941702,70.51,other,Acute hepatitis C without mention of hepatic coma,#cccccc
+-3.9529045,-8.554148,252.00,other,"Hyperparathyroidism, unspecified",#cccccc
+-3.773877,-8.385131,410.1,other,"Acute myocardial infarction of other anterior wall, episode of care unspecified",#cccccc
+-19.466734,-4.889807,708.9,other,"Urticaria, unspecified",#cccccc
+-19.052574,-5.6842155,686.1,other,Pyogenic granuloma of skin and subcutaneous tissue,#cccccc
+-19.98646,-5.6445155,593.89,renal,Other specified disorders of kidney and ureter,#9467bd
+-19.862135,-5.2351103,470,other,Deviated nasal septum,#cccccc
+-19.114351,-5.225817,239.5,other,Neoplasm of unspecified nature of other genitourinary organs,#cccccc
+-19.53198,-5.8927054,189.0,renal,"Malignant neoplasm of kidney, except pelvis",#9467bd
+3.364713,-1.7931744,E873.9,other,Unspecified failure in dosage,#cccccc
+13.438815,2.434229,250.93,diabetes,"Diabetes with unspecified complication, type I [juvenile type], uncontrolled",#ff7f0e
+-6.0628057,-13.534976,412,other,Old myocardial infarction,#cccccc
+-1.3388995,-19.698689,805.8,other,Closed fracture of unspecified vertebral column without mention of spinal cord injury,#cccccc
+-0.99329174,-20.797432,478.6,other,Edema of larynx,#cccccc
+-1.0614741,-20.694153,476.0,other,Chronic laryngitis,#cccccc
+-1.065969,-20.802849,281.0,other,Pernicious anemia,#cccccc
+-15.65772,30.010437,572.3,hypertension,Portal hypertension,#2ca02c
+-15.427295,30.189823,V42.7,other,Liver replaced by transplant,#cccccc
+16.977936,-7.5345016,805.2,other,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury,#cccccc
+16.847586,-7.6128325,719.65,other,"Other symptoms referable to joint, pelvic region and thigh",#cccccc
+1.3586086,20.894512,641.13,other,"Hemorrhage from placenta previa, antepartum condition or complication",#cccccc
+-1.5737201,22.519722,V72.85,other,Other specified examination,#cccccc
+-1.5698318,22.524073,253.1,other,Other and unspecified anterior pituitary hyperfunction,#cccccc
+16.444427,-9.513138,611.1,other,Hypertrophy of breast,#cccccc
+2.84152,-1.2516845,V65.40,other,Counseling NOS,#cccccc
+4.39224,-24.082575,331.9,other,"Cerebral degeneration, unspecified",#cccccc
+4.6721606,-23.972246,38.3,other,Septicemia due to anaerobes,#cccccc
+4.3060675,-23.86971,596.54,neurological,Neurogenic bladder NOS,#7f7f7f
+4.5611787,-23.680342,781.3,other,Lack of coordination,#cccccc
+-24.116282,5.061854,710.0,other,Systemic lupus erythematosus,#cccccc
+-24.115522,5.060494,741.9,other,"Spina bifida without mention of hydrocephalus, unspecified region",#cccccc
+-3.0895903,-3.1415079,52.9,other,Varicella without mention of complication,#cccccc
+0.44243407,-2.735076,373.00,other,"Blepharitis, unspecified",#cccccc
+-5.773711,-13.532159,V43.3,cardiovascular,Heart valve replaced by other means,#8c564b
+-22.527721,9.656825,852.4,other,"Extradural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",#cccccc
+-22.371872,9.591872,272.8,other,Other disorders of lipoid metabolism,#cccccc
+3.008462,-3.6927485,V71.9,other,Observation for unspecified suspected condition,#cccccc
+21.86461,15.562149,780.8,other,Generalized hyperhidrosis,#cccccc
+-1.3088871,7.1373916,727.3,other,Other bursitis,#cccccc
+-1.2150126,6.7952147,611.72,other,Lump or mass in breast,#cccccc
+-3.3295178,-23.753614,75,other,Infectious mononucleosis,#cccccc
+9.56605,-26.609108,98.36,other,"Gonococcal endometritis, chronic",#cccccc
+9.681595,-26.35074,854.15,other,"Intracranial injury of other and unspecified nature with open intracranial wound, with prolonged [more than 24 hours] loss of consciousness without return to pre-existing conscious level",#cccccc
+10.209982,-26.606651,348.31,other,Metabolic encephalopathy,#cccccc
+10.112216,-26.288044,718.00,other,"Articular cartilage disorder, site unspecified",#cccccc
+-10.087807,10.411021,455.3,other,External hemorrhoids without mention of complication,#cccccc
+13.268752,3.0384214,493.01,other,Extrinsic asthma with status asthmaticus,#cccccc
+-2.9447212,16.411415,V25.43,other,Surveillance of implantable subdermal contraceptive,#cccccc
+-12.974184,-11.380058,486,other,"Pneumonia, organism unspecified",#cccccc
+8.915195,4.544154,372.3,other,"Conjunctivitis, unspecified",#cccccc
+22.058203,-15.435843,V15.01,other,Allergy to peanuts,#cccccc
+-30.133886,-0.41009808,427.89,cardiovascular,Other specified cardiac dysrhythmias,#8c564b
+-29.78964,0.041872308,782.0,other,Disturbance of skin sensation,#cccccc
+9.159648,14.534558,722.73,other,"Intervertebral disc disorder with myelopathy, lumbar region",#cccccc
+9.143155,14.5474,172.9,other,"Melanoma of skin, site unspecified",#cccccc
+-5.711806,9.395717,53.9,other,Herpes zoster without mention of complication,#cccccc
+2.6471012,-2.04337,245.9,other,"Thyroiditis, unspecified",#cccccc
+-6.263272,-27.616917,519.8,other,"Other diseases of respiratory system, not elsewhere classified",#cccccc
+0.8136743,-1.3554374,250.63,diabetes,"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled",#ff7f0e
+-6.492999,-8.258181,737.2,other,Lordosis (acquired) (postural),#cccccc
+-6.501806,-8.264251,241.0,other,Nontoxic uninodular goiter,#cccccc
+0.0125829335,-15.923212,807.09,other,"Closed fracture of multiple ribs, unspecified",#cccccc
+27.209219,0.83998007,180.9,other,"Malignant neoplasm of cervix uteri, unspecified site",#cccccc
+22.648758,-16.149008,V72.0,ophthalmic,Examination of eyes and vision,#e377c2
+15.030729,3.4334056,736.73,other,"Cavus deformity of foot, acquired",#cccccc
+-5.623758,9.574286,447.6,other,"Arteritis, unspecified",#cccccc
+-3.136553,-3.0145795,362.53,other,Cystoid macular degeneration,#cccccc
+-4.7532573,-19.035093,288.3,other,Eosinophilia,#cccccc
+-7.9222903,17.79651,474.12,other,Hypertrophy of adenoids alone,#cccccc
+-0.30395553,-14.910107,350.1,other,Trigeminal neuralgia,#cccccc
+-23.384748,0.076053716,530.1,other,"Esophagitis, unspecified",#cccccc
+-23.385191,0.075705186,727.06,other,Tenosynovitis of foot and ankle,#cccccc
+-1.3707908,0.3762293,715.09,other,"Osteoarthrosis, generalized, multiple sites",#cccccc
+-1.3515184,0.37859038,V70.5,other,Health examination of defined subpopulations,#cccccc
+2.1892173,-1.314535,334.0,other,Friedreich's ataxia,#cccccc
+21.912125,15.525587,78.19,other,Other specified viral warts,#cccccc
+-6.1111655,-5.193798,537.9,other,Unspecified disorder of stomach and duodenum,#cccccc
+7.3684793,-1.7083148,276.2,other,Acidosis,#cccccc
+-25.048302,14.166538,052.0,other,Postvaricella encephalitis,#cccccc
+-25.048553,14.166544,249.01,diabetes,"Secondary diabetes mellitus without mention of complication, uncontrolled",#ff7f0e
+-10.036596,-18.681107,250.13,diabetes,Diabetes Mellitus,#ff7f0e
+-10.036808,-18.685694,323.61,other,Infectious acute disseminated encephalomyelitis (ADEM),#cccccc
+2.6686559,-2.9310415,605,other,Redundant prepuce and phimosis,#cccccc
+9.866283,-28.187529,V25.9,other,Unspecified contraceptive management,#cccccc
+-17.481651,19.460018,847.0,other,Sprain of neck,#cccccc
+-17.216337,19.56537,566,other,Abscess of anal and rectal regions,#cccccc
+-17.312319,18.896345,214.9,other,"Lipoma, unspecified site",#cccccc
+-17.070127,19.135836,54.9,other,Herpes simplex without mention of complication,#cccccc
+4.88568,19.976395,V62.82,other,"Bereavement, uncomplicated",#cccccc
+8.33098,19.701326,213.9,other,"Benign neoplasm of bone and articular cartilage, site unspecified",#cccccc
+-2.0385573,13.49708,736.79,other,Other acquired deformities of ankle and foot,#cccccc
+-2.0420985,13.501493,995.3,other,"Allergy, unspecified, not elsewhere classified",#cccccc
+-10.285879,10.046157,V68.2,other,Request for expert evidence,#cccccc
+-12.831146,7.8613935,591,other,Hydronephrosis,#cccccc
+-9.898077,17.749016,708.5,other,Cholinergic urticaria,#cccccc
+-15.052911,20.08082,V14.0,other,Personal history of allergy to penicillin,#cccccc
+-15.006323,20.328514,240.9,other,"Goiter, unspecified",#cccccc
+1.3445207,-2.8363273,695.2,other,Erythema nodosum,#cccccc
+4.8999486,6.9050016,702.19,other,Other seborrheic keratosis,#cccccc
+4.9595046,6.818088,372.4,other,"Pterygium, unspecified",#cccccc
+1.276826,-2.1765318,576.1,other,Cholangitis,#cccccc
+20.87351,5.9620757,691.0,other,Diaper or napkin rash,#cccccc
+10.759466,23.43515,758.6,other,Gonadal dysgenesis,#cccccc
+10.467252,23.338993,742.9,other,"Unspecified congenital anomaly of brain, spinal cord, and nervous system",#cccccc
+10.354067,23.410175,54.1,other,"Genital herpes, unspecified",#cccccc
+-3.3582432,-23.859854,794.5,other,Nonspecific abnormal results of function study of thyroid,#cccccc
+-3.4333594,-23.943634,831.00,other,"Closed dislocation of shoulder, unspecified",#cccccc
+-23.931465,-12.899353,727.00,other,"Synovitis and tenosynovitis, unspecified",#cccccc
+-4.223058,10.701295,V72.32,other,Encounter for Papanicolaou cervical smear to confirm findings of recent normal smear following initial abnormal smear,#cccccc
+4.001853,19.265308,733.42,other,Aseptic necrosis of head and neck of femur,#cccccc
+3.3526542,19.578035,371.03,other,Central opacity of cornea,#cccccc
+4.215941,19.357893,370.21,other,Punctate keratitis,#cccccc
+4.119686,19.962278,300.14,other,Dissociative identity disorder,#cccccc
+12.539283,-10.29473,781.0,other,Abnormal involuntary movements,#cccccc
+12.578832,-10.310784,553.21,other,Incisional hernia without mention of obstruction or gangrene,#cccccc
+12.573686,-10.279851,473.9,other,Unspecified sinusitis (chronic),#cccccc
+-14.711572,-12.947615,716.95,other,"Arthropathy, unspecified, pelvic region and thigh",#cccccc
+-14.615914,-12.891477,716.91,other,"Arthropathy, unspecified, shoulder region",#cccccc
+23.182713,-15.096789,97.9,other,"Syphilis, unspecified",#cccccc
+-23.399635,-12.530769,754.0,other,"Congenital musculoskeletal deformities of skull, face, and jaw",#cccccc
+-23.026834,-12.626043,733.09,other,Other osteoporosis,#cccccc
+-23.284695,-13.134694,240.0,other,"Goiter, specified as simple",#cccccc
+-22.93048,-12.896706,357.2,neurological,Diabetic Neuropathy,#7f7f7f
+3.5669823,9.519395,485,other,"Bronchopneumonia, organism unspecified",#cccccc
+-30.488344,-1.0336941,427.61,other,Supraventricular premature beats,#cccccc
+-30.820545,-0.78900623,337.2,other,"Reflex sympathetic dystrophy, unspecified",#cccccc
+-30.745905,-1.0800059,397.0,other,Diseases of tricuspid valve,#cccccc
+13.113896,0.08578132,794.31,other,Nonspecific abnormal electrocardiogram [ECG] [EKG],#cccccc
+13.077288,0.063485116,394.9,other,Other and unspecified mitral valve diseases,#cccccc
+11.386441,18.90097,642.41,other,"Mild or unspecified pre-eclampsia, delivered, with or without mention of antepartum condition",#cccccc
+-15.205335,19.611473,V43.64,other,Hip joint replacement,#cccccc
+-22.603456,9.474172,721.3,other,Lumbosacral spondylosis without myelopathy,#cccccc
+-22.448065,9.412606,724.9,other,Other unspecified back disorders,#cccccc
+2.5911586,-0.40635967,726.11,other,Calcifying tendinitis of shoulder,#cccccc
+-2.7297838,-28.783703,920,ophthalmic,"Contusion of face, scalp, and neck except eye(s)",#e377c2
+-2.7213492,-28.790243,228.00,other,Hemangioma of unspecified site,#cccccc
